@@ -1,0 +1,22 @@
+header{
+    background-color: #ededed;
+    text-align: center;
+    border-bottom: 2px solid #cf8e33;
+    
+}
+ 
+h2{
+    color: #cf8e33;
+}
+
+hr{
+    border-color: #cf8e33;
+}
+
+footer{
+    font-size: 16px;
+}
+
+main{
+    margin-left: 15px;
+}
